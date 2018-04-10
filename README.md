@@ -13,7 +13,7 @@ cvt width height frame_rate
 eg: cvt 1366 768 60
 
 example output:
-# 1368x768 59.88 Hz (CVT) hsync: 47.79 kHz; pclk: 85.25 MHz
+1368x768 59.88 Hz (CVT) hsync: 47.79 kHz; pclk: 85.25 MHz
 Modeline "1368x768_60.00"   85.25  1368 1440 1576 1784  768 771 781 798 -hsync +vsync
 
 From this output, we learn that,
